@@ -1,4 +1,5 @@
-# PRODIGY_WD_01
+# Modern-Website
+
 🧭 Interactive Navigation Menu
 A modern, responsive navigation menu with dynamic scroll effects and smooth hover animations. Features a glassmorphism design that adapts its appearance based on scroll position and user interactions.
 ✨ Features
